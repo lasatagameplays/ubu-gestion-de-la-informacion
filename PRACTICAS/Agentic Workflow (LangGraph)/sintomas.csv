@@ -1,0 +1,73 @@
+especialidad;descripcion;sintomas_comunes;telefono
+Urgencias;Atención médica inmediata ante situaciones que requieren intervención rápida para evitar riesgos graves para la salud;dolor intenso,pérdida de conciencia,dificultad respiratoria,hemorragias;912345678
+Urgencias a domicilio;Asistencia urgente prestada en el propio domicilio del paciente cuando no puede desplazarse;fiebre alta,dolor agudo,empeoramiento súbito,incapacidad para moverse;913456789
+Urgencias hospitalarias;Atención urgente prestada en servicios de urgencias de hospitales;traumatismos,dolor torácico,disnea,convulsiones;914567890
+Urgencias ginecológicas y/u obstétricas;Atención urgente relacionada con el embarazo parto y patologías ginecológicas;dolor pélvico,sangrado vaginal,contracciones,rotura de bolsa;915678901
+Urgencias pediátricas;Atención urgente especializada en niños y adolescentes;fiebre alta,vómitos,dificultad respiratoria,convulsiones;916789012
+Urgencias traumatológicas;Atención inmediata de lesiones del aparato locomotor causadas por traumatismos;fracturas,dolor articular,hinchazón,limitación de movimiento;917890123
+Ambulancias y otros traslados sanitarios;Servicios de transporte sanitario asistido o no asistido;dependencia funcional,necesidad de oxígeno,inmovilización;918901234
+Clínicas y hospitales concertados;Centros sanitarios que prestan asistencia mediante acuerdos con aseguradoras o sistemas públicos;síntomas variados según especialidad;919012345
+Hospitales generales;Centros hospitalarios que ofrecen atención médica y quirúrgica en múltiples especialidades;síntomas complejos o múltiples patologías;910123456
+Atención primaria;Primer nivel de acceso al sistema sanitario orientado a la prevención y atención básica;molestias leves,seguimiento de enfermedades crónicas,prevención;911234567
+Medicina general;Atención médica integral a pacientes de todas las edades para problemas comunes de salud;fiebre,dolor general,malestar,cansancio;912346789
+Pediatría;Atención médica especializada en la salud de niños y adolescentes;fiebre,infecciones recurrentes,retraso en desarrollo;913457890
+Enfermería;Cuidados asistenciales preventivos y de apoyo al tratamiento médico;heridas,curas,control de constantes;914568901
+Solo atención domiciliaria;Servicios sanitarios prestados exclusivamente en el domicilio del paciente;dependencia,limitación de movilidad,patologías crónicas;915679012
+Matrona;Atención especializada en embarazo parto posparto y salud reproductiva femenina;control embarazo,contracciones,dolor lumbar;916780123
+Preparación al parto;Programas educativos y físicos para preparar a la mujer y su pareja para el parto;ansiedad ante el parto,necesidad de información;917891234
+Fisioterapia;Tratamiento mediante técnicas físicas para la rehabilitación y prevención de lesiones;dolor muscular,rigidez,pérdida de movilidad;918902345
+Rehabilitación del suelo pélvico;Tratamientos específicos para fortalecer y recuperar la musculatura del suelo pélvico;incontinencia,dolor pélvico,prolapso;919013456
+Odontología - Estomatología;Prevención y tratamiento de enfermedades de la boca dientes y encías;dolor dental,sangrado de encías,caries;910124567
+Atención especializada;Atención médica prestada por especialistas en áreas concretas de la medicina;síntomas específicos según órgano o sistema;911235678
+Alergología;Diagnóstico y tratamiento de enfermedades alérgicas;estornudos,picor,urticaria,dificultad respiratoria;912346780
+Alergología infantil;Atención especializada en alergias en población pediátrica;asma,rinitis,dermatitis atópica;913457891
+Análisis clínicos;Estudios de laboratorio para el diagnóstico y seguimiento de enfermedades;alteraciones analíticas,control de patologías;914568902
+Anatomía patológica;Estudio de tejidos y células para el diagnóstico de enfermedades;biopsias,diagnóstico tumoral;915679013
+Angiología y cirugía vascular;Tratamiento médico y quirúrgico de enfermedades de los vasos sanguíneos;dolor en piernas,varices,úlceras;916780124
+Aparato digestivo;Diagnóstico y tratamiento de enfermedades del sistema digestivo;dolor abdominal,diarrea,estreñimiento,acidez;917891235
+Endoscopia digestiva;Exploración diagnóstica y terapéutica del tubo digestivo mediante endoscopia;sangrado digestivo,anemia,dolor abdominal;918902346
+Cardiología;Diagnóstico y tratamiento de enfermedades del corazón;dolor torácico,palpitaciones,fatiga;919013457
+Cardiología infantil;Atención cardiológica especializada en niños;soplos,disnea,retraso de crecimiento;910124568
+Hemodinámica;Estudio y tratamiento de alteraciones del flujo sanguíneo y las arterias coronarias;angina,infarto;911235679
+Cirugía cardiovascular;Intervenciones quirúrgicas del corazón y grandes vasos;insuficiencia cardiaca,cardiopatías;912346781
+Cirugía general y del aparato digestivo;Cirugía de órganos abdominales y sistema digestivo;hernia,dolor abdominal,obstrucción;913457892
+Cirugía oral y maxilofacial;Tratamiento quirúrgico de patologías de la boca cara y mandíbula;dolor facial,fracturas,maxilares;914568903
+Cirugía pediátrica;Intervenciones quirúrgicas en pacientes infantiles;malformaciones congénitas,hernia infantil;915679014
+Cirugía plástica estética y reparadora;Corrección quirúrgica de defectos funcionales o estéticos;secuelas traumáticas,malformaciones;916780125
+Cirugía torácica;Cirugía de órganos del tórax excluyendo el corazón;dolor torácico,tumores pulmonares;917891236
+Dermatología médico-quirúrgica y venérea;Diagnóstico y tratamiento de enfermedades de la piel y de transmisión sexual;erupciones,picor,lesiones cutáneas;918902347
+Endocrinología y nutrición;Tratamiento de trastornos hormonales y metabólicos;alteraciones de peso,diabetes,problemas tiroideos;919013458
+Ginecología y obstetricia;Atención integral de la salud reproductiva femenina y del embarazo;dolor pélvico,alteraciones menstruales;910124569
+Diagnóstico prenatal / amniocentesis;Pruebas para detectar alteraciones fetales durante el embarazo;cribado prenatal,riesgo genético;911235680
+Hematología y hemoterapia;Estudio y tratamiento de enfermedades de la sangre;anemia,hematomas,fatiga;912346782
+Logopedia y foniatría;Tratamiento de trastornos del habla voz y lenguaje;disfonía,problemas de pronunciación;913457893
+Medicina física y rehabilitación;Recuperación funcional tras lesiones o enfermedades;limitación funcional,dolor crónico;914568904
+Medicina interna;Atención integral de enfermedades complejas del adulto;fiebre persistente,patologías múltiples;915679015
+Nefrología;Diagnóstico y tratamiento de enfermedades del riñón;edemas,alteraciones de la micción;916780126
+Neumología;Tratamiento de enfermedades del sistema respiratorio;tos crónica,disnea,sibilancias;917891237
+Neurocirugía;Cirugía del sistema nervioso central y periférico;cefalea intensa,déficits neurológicos;918902348
+Neurofisiología clínica;Estudio funcional del sistema nervioso mediante pruebas diagnósticas;convulsiones,alteraciones neurológicas;919013459
+Neurología;Diagnóstico y tratamiento de enfermedades neurológicas;dolor de cabeza,temblores,pérdida de sensibilidad;910124570
+Oftalmología;Atención médica y quirúrgica de enfermedades oculares;visión borrosa,dolor ocular,rojecimiento;911235681
+Cirugía de polo anterior (córnea y catarata);Cirugía especializada en córnea y cataratas;pérdida de visión,opacidad ocular;912346783
+Cirugía del glaucoma;Tratamiento quirúrgico para reducir la presión intraocular;dolor ocular,visión en túnel;913457894
+Cirugía plástica ocular;Corrección estética y funcional de párpados y órbita;ptosis,bolsas palpebrales;914568905
+Cirugía refractiva y presbicia;Cirugía para corregir defectos visuales como miopía o presbicia;dependencia de gafas;915679016
+Cirugía vítreo-retina y mácula;Tratamiento quirúrgico de patologías de la retina;pérdida de visión central,manchas;916780127
+Oftalmología infantil y estrabismo;Atención oftalmológica especializada en niños;estrabismo,ambliopía;917891238
+Oncología médica;Tratamiento del cáncer mediante terapias farmacológicas;pérdida de peso,dolor,fatiga;918902349
+Oncología radioterápica;Tratamiento del cáncer mediante radioterapia;tumores localizados;919013460
+Otorrinolaringología;Tratamiento de enfermedades del oído nariz y garganta;dolor de oído,ronquera,congestión;910124571
+Psicología;Atención a la salud mental y al comportamiento;ansiedad,estrés,depresión;911235682
+Psiquiatría;Diagnóstico y tratamiento médico de trastornos mentales;depresión grave,psicosis,ansiedad severa;912346784
+Radiodiagnóstico;Obtención e interpretación de imágenes médicas para diagnóstico;síntomas variados según estudio;913457895
+Densitometría ósea;Medición de la densidad mineral ósea para detectar osteoporosis;riesgo de fracturas;914568906
+Ecografía;Técnica de imagen basada en ultrasonidos;dolor abdominal,control de embarazo;915679017
+Mamografía;Prueba radiológica para el estudio de la mama;nódulos mamarios;916780128
+Radiología intervencionista;Procedimientos diagnósticos y terapéuticos mínimamente invasivos guiados por imagen;hemorragias,obstrucciones;917891239
+Resonancia magnética;Técnica avanzada de imagen mediante campos magnéticos;diagnóstico neurológico,musculoesquelético;918902350
+T.A.C.;Tomografía axial computarizada para diagnóstico por imagen;traumatismos,patología interna;919013461
+Reumatología;Tratamiento de enfermedades reumáticas y autoinmunes;dolor articular,rigidez matutina;910124572
+Traumatología y cirugía ortopédica;Tratamiento de lesiones y enfermedades del aparato locomotor;fracturas,dolor óseo;911235683
+Traumatología infantil;Atención traumatológica especializada en niños;cojeras,dolor tras caídas;912346785
+Urología;Diagnóstico y tratamiento de enfermedades del sistema urinario y aparato reproductor masculino;dolor al orinar,infecciones urinarias;913457896
