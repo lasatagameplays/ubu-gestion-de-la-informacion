@@ -68,8 +68,8 @@ Todos los recursos, enunciados y resoluciones se encuentran organizados dentro d
 
 ## 🏆 Proyecto Final
 
-### [🤖 Agentic Workflow (LangGraph)](./Agentic%20Workflow%20(LangGraph))
-* **Directorio:** `/Agentic Workflow (LangGraph)`
+### [🤖 Agentic Workflow (LangGraph)](./PRACTICAS/Agentic%20Workflow%20(LangGraph))
+* **Directorio:** `/PRACTICAS/Agentic Workflow (LangGraph)`
 * **Descripción:** Desarrollo de un agente inteligente que actúa como un sistema de triaje médico automatizado.
 * **Objetivo:** Analizar consultas informales de pacientes (ej. síntomas descritos por correo), resumir la información mediante LLMs y utilizar un sistema RAG sobre una base de datos CSV para encontrar la especialidad médica adecuada y proporcionar su teléfono de contacto. Se implementa un grafo de toma de decisiones para validar si la consulta es pertinente o debe ser rechazada.
 * **Tecnologías utilizadas:** Python, LangGraph, LangChain, OpenAI API, Jupyter Notebook.
